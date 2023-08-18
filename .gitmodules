@@ -1,0 +1,18 @@
+[submodule "Cooler/lib/ds-test"]
+	path = Cooler/lib/ds-test
+	url = https://github.com/dapphub/ds-test
+[submodule "Cooler/lib/openzeppelin-contracts"]
+	path = Cooler/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Cooler/lib/olympus-v3"]
+	path = Cooler/lib/olympus-v3
+	url = https://github.com/OlympusDAO/olympus-v3
+[submodule "Cooler/lib/solmate"]
+	path = Cooler/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "Cooler/lib/clones-with-immutable-args"]
+	path = Cooler/lib/clones-with-immutable-args
+	url = https://github.com/wighawag/clones-with-immutable-args
+[submodule "Cooler/lib/forge-std"]
+	path = Cooler/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
