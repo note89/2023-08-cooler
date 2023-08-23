@@ -78,3 +78,12 @@ ___
 
 
 # Audit scope
+
+
+[Cooler @ c6f2bbe1b51cdf3bb4d078875170177a1b8ba2a3](https://github.com/ohmzeus/Cooler/tree/c6f2bbe1b51cdf3bb4d078875170177a1b8ba2a3)
+- [Cooler/src/Clearinghouse.sol](Cooler/src/Clearinghouse.sol)
+- [Cooler/src/Cooler.sol](Cooler/src/Cooler.sol)
+- [Cooler/src/CoolerCallback.sol](Cooler/src/CoolerCallback.sol)
+- [Cooler/src/CoolerFactory.sol](Cooler/src/CoolerFactory.sol)
+
+
